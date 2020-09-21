@@ -1,1 +1,6 @@
-console.log("hello world!");
+setTimeout(
+  () => {
+    console.log('Привет мир, я Влад Шатерников!');
+  },
+  4 * 1000
+);
