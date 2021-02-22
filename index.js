@@ -1,1 +1,1 @@
-console.log("hello world! From Kachusov Stepan");
+console.log("hello world! From Kachusov Stepan and Arhipov Dmitry");
