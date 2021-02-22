@@ -1,1 +1,1 @@
-console.log("shrek i kot!");
+console.log("shrek i kot");
