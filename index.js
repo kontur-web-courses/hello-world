@@ -1,1 +1,2 @@
-console.log("hello bruh");
+n = "Bruh"
+console.log(`hello ${n}`);
