@@ -1,1 +1,1 @@
-console.log("hello world! from Daniil");
+console.log("VIctor bad guy");
