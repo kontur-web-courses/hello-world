@@ -1,1 +1,2 @@
-console.log("hello, Maksim Abramov");
+console.log("hello, Maksim Abramov and Danil");
+
