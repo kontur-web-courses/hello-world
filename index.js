@@ -1,1 +1,1 @@
-console.log("hello world from Vanya!");
+console.log("hello world from Ksyusha!");
