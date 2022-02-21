@@ -1,1 +1,1 @@
-console.log("hello world!");
+console.log("Proshu otchislit' po sobstvennomu jelaniyu!");
