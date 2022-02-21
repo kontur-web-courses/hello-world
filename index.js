@@ -1,1 +1,1 @@
-console.log("Hello, NaNeG");
+console.log("Hello, Gtigoriy");
