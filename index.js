@@ -1,1 +1,1 @@
-console.log("hello world! + Больно жить");
+console.log("hello world! + Больно жить + юджин!");
