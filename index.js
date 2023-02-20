@@ -1,1 +1,1 @@
-console.log("hello world!");
+console.log("Danil Konyushenko FIIT-204");
