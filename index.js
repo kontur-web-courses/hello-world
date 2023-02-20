@@ -1,1 +1,1 @@
-console.log("hello world!");
+console.log("Привет! Я Илья Лагунов из ФТ-203");
