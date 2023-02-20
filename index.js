@@ -1,3 +1,5 @@
+console.log("Hi, I'm Denis Sayafarov. Did you know that you have rights?");
+
 function randomizeString(str) {
     let arr = str.split('');
   
