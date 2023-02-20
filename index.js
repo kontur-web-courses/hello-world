@@ -1,1 +1,1 @@
-console.log("hello world!");
+console.log("Здарова, а я Никита (Цеханович)! (фт-203)");
