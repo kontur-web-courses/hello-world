@@ -1,1 +1,1 @@
-console.log("hello from Boyakov Mikhail");
+console.log("hello from Solin Maxim and Boyakov Mikhail!");
