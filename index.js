@@ -1,1 +1,1 @@
-console.log("hello world!, здесь были Слава и Максим");
+console.log("hello WORLD!, здесь были Слава и Максим");
