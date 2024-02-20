@@ -1,2 +1,2 @@
 console.log("hello world!");
-console.log("Second hello from Amir");
+console.log("Hello from Amir")
