@@ -1,1 +1,1 @@
-console.log("Славян");
+console.log("Sanchous))).Add(Славян)");
