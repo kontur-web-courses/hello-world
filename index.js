@@ -1,1 +1,1 @@
-console.log("hello Egore!");
+console.log("hello Artem and Egore!");
