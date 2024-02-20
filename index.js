@@ -1,1 +1,1 @@
-console.log("hello aboba aboba aboba aboba aboba aboba aboba aboba aboba aboba!");
+console.log("testo Egor");
