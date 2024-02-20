@@ -1,5 +1,5 @@
 function getPartyRating(money) {
-    if (money > 1000)
+    if (money > 0.5)
         return "Большая миска риса";
     return "Маленькая миска риса";
 }
@@ -7,5 +7,5 @@ function getPartyRating(money) {
 
 while (true) {
     console.log("Великий Лидер XI");
-    getPartyRating(Math.random());
+    console.log("Вам положена: ", getPartyRating(Math.random()));
 }
