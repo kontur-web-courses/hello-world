@@ -2,7 +2,7 @@
 
 Это проект, чтобы проверить работоспособность инструментария.
 
-## Инструкция для очных занятийmkmlkjjkljklklkl
+## Инструкция для очных занятийmkmlkjjkljklklkl dfl;lfdl;fsdl;fl;sfl;fsl;fs
 ### Что понадобится:
 * Аккаунт GitHub. Если еще нет, то надо [зарегистрироваться](https://github.com/join)
 * [Git](https://git-scm.com/)
