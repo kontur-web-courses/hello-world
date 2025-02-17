@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World!</title>
+</head>
+<body>
+    <div class="card">
+        <h1 class="card__title">Привет, {username}</h1>
+        
+        <p class="card__text">Тебе нужно:</p>
+
+        <ul class="card__list">
+            <li class="card__list-item">
+                <label><span>Откыть index.html</span> <input id="html" type="checkbox" value="HTML"></label>
+            </li class="card__list-item">
+            <li class="card__list-item">
+                <label>Подключить styles.css <input id="css" type="checkbox" value="CSS"></label>
+            </li>
+            <li class="card__list-item">
+                <label>Подключить index.js <input id="js" type="checkbox" value="JS"></label>
+            </li>
+        </ul>
+
+        <p id="output" class="card__text"></p>
+    </div>
+</body>
+</html>
