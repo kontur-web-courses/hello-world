@@ -11,7 +11,7 @@ function updateOutput() {
     });
 
     if (selectedValues.length > 0) {
-        output.textContent = `Вы справился с: ${selectedValues.join(', ')}`;
+        output.textContent = `Вы справились с: ${selectedValues.join(', ')}`;
     } else {
         output.textContent = 'Пока ничего не сделано.';
     }
