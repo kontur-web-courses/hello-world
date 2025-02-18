@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hello World!</title>
 
-    <!-- #1 Тут нужно подключить styles.css -->
-    <!-- Как это сделать посмотрите тут - https://developer.mozilla.org/ru/docs/Web/HTML/Element/link -->
+    <link href="main.css" rel="stylesheet" />
+
 </head>
 <body>
 <div class="card">
@@ -27,11 +27,9 @@
     </ul>
 
     <p id="output" class="card__text"></p>
-
-    <!-- #2 Тут нужно подключить index.js -->
-    <!-- Как это сделать посмотрите тут - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#examples -->
-    <!-- А ещё обратите внимание, где подключается скрипт, почему не внутри <head>? Попробуйте подключить скрипт в <head> -->
-    <!-- Для всех кому интересно, мы разберёмся с этим позже, но можете уже почитать как это можно побороть https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event -->
+    
+    <script src="javascript.js"></script>
+        
 </div>
 </body>
 </html>
